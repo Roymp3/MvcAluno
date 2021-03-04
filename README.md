@@ -4,3 +4,12 @@
  
  
 Usei o Mvc que é um padrão de arquitetura de software 
+
+### Tarefas
+
+- [x] Criar projeto
+- [x] Aplicar Mvc
+- [x] Adcionar pacotes
+- [x] Aplicar o scaffold
+- [x] Aplicar migration
+- [x] Testar Site

@@ -5,7 +5,10 @@
  
 Usei o Mvc que é um padrão de arquitetura de software 
 
-### Tarefas
+## Status:
+✔ Concluído
+
+#### Tarefas
 
 - [x] Criar projeto
 - [x] Aplicar Mvc
